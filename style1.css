@@ -1,0 +1,10 @@
+.p {
+    background-color: blue;
+    display: inline-block;
+    color: black;
+}
+.s {
+    background-color: black;
+    display: inline-block;
+    color: blue;
+}
